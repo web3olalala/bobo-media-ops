@@ -1,0 +1,13 @@
+{
+  "name": "Bobo",
+  "topics": ["AI 实用方法", "AI 工具教程", "职场效率", "实际工作流"],
+  "audience": ["普通人", "AI 入门者", "希望把 AI 用于工作的人"],
+  "voice": "真实、口语化、清楚、有节奏；少术语，不夸大",
+  "platforms": ["douyin", "xiaohongshu"],
+  "target_seconds": 90,
+  "word_range": [250, 450],
+  "verified_experiences": [],
+  "verified_cases": [],
+  "banned_phrases": [],
+  "usual_ending": "我是 Bobo，只分享普通人真正能用得上的 AI 使用方法。"
+}

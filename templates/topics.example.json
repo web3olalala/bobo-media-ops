@@ -1,0 +1,15 @@
+[
+  {
+    "topic": "示例：普通人第一次用 AI 整理工作资料",
+    "angle": "从一个可复用的小步骤切入，不复刻证据作品标题",
+    "audience_problem": "不知道从哪里开始",
+    "why": "示例字段；实际任务必须用真实作品与评论支持",
+    "evidence_urls": ["https://example.invalid/synthetic-post"],
+    "difference": "加入 Bobo 已验证的实操",
+    "bobo_fit": "AI 入门者",
+    "feasibility": "需核实工具功能",
+    "confidence": "low",
+    "priority": "test",
+    "priority_reason": "合成示例，不作真实推荐"
+  }
+]

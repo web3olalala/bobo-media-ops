@@ -1,0 +1,13 @@
+{
+  "timezone": "Asia/Shanghai",
+  "platforms": ["douyin", "xiaohongshu"],
+  "followers_max": 50000,
+  "views_min": 100000,
+  "interaction_min": 1000,
+  "max_requests": 150,
+  "max_posts": 100,
+  "max_comment_pages": 100,
+  "max_asr_duration": 0,
+  "endpoint_prices_usd": {},
+  "max_cost_estimate": null
+}
